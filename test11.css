@@ -1,0 +1,38 @@
+h1.title {
+    background-color: green;
+    color: white;
+}
+
+li{
+    display: inline;
+}
+li a{
+    padding-right: 20px;
+}
+a:link{
+    text-decoration: none;
+}
+
+.box1{
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: red;
+}
+
+.box2{
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:yellow
+}
+
+.box3{
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:pink
+}
